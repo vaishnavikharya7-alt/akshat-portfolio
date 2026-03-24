@@ -20,7 +20,7 @@ A modern, interactive 3D portfolio website for Akshat Gupta, a Full Stack Engine
 
 ## 🔗 Live Demo
 
-[View Portfolio](https://vaishnavikharya.github.io/akshat-portfolio)
+[View Portfolio](akshat-portfolio-1-eight.vercel.app)
 
 ## 👩‍💻 Designed by
 
